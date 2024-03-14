@@ -22,6 +22,13 @@ namespace SoundLocator_WebApi.Controllers
             return db.Users;
         }
 
+        [HttpGet]
+        [Route("api/Users/GetTotalUsers")] 
+        public int GetTotalUsers()
+        {
+            return db.Users.Count();
+        }
+
         [HttpPost]
         [Route("api/users/login")]
         public IHttpActionResult Login(User user)
