@@ -84,7 +84,6 @@ C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLoca
 C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\obj\Debug\SoundLocator_WebApi.csproj.AssemblyReference.cache
 C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\obj\Debug\SoundLocator_WebApi.csproj.CoreCompileInputs.cache
-C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\obj\Debug\SoundLocator_WebApi.csproj.CopyComplete
 C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\obj\Debug\SoundLocator_WebApi.dll
 C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\obj\Debug\SoundLocator_WebApi.pdb
 C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\bin\Json.Net.dll
@@ -104,3 +103,4 @@ C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLoca
 C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Nicolle\Documents\Universidad\Apps web OS\SoundLocator_WebApi\SoundLocator_WebApi\obj\Debug\SoundLoc.75E4AD0E.Up2Date
